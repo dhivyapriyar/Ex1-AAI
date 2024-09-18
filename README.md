@@ -110,6 +110,8 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/1fcfb268-dfee-4423-b653-3b12617d9482)
 
+![image](https://github.com/user-attachments/assets/554fa767-0352-419a-a0c9-fd2775f75cc4)
+
 ![image](https://github.com/user-attachments/assets/55b872a1-b718-4265-9df1-d70f676b6076)
 
 ## Result:
